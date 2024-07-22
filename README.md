@@ -11,8 +11,7 @@ Welcome to the MakeMoreSmiles project! This project utilizes Streamlit to create
    - [Local Setup](#local-setup)
    - [Docker Setup](#docker-setup)
 4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [License](#license)
+
 
 ## Overview
 
