@@ -12,8 +12,6 @@ sys.path.append(os.path.join(RDConfig.RDContribDir, 'SA_Score'))
 # now you can import sascore!
 import sascorer
 
-#hdllo
-
 RDLogger.DisableLog('rdApp.*')
 
 # Check if CUDA is available, otherwise use CPU
