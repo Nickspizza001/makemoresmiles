@@ -89,6 +89,10 @@ The application is also hosted on Streamlit Cloud. You can access it at:
    - The generated SMILES strings will be displayed.
    - You can visualize the molecular structures and validate them.
 
+## TODO
+1. Improve model using a larger database (PubChem - 60, 000, 000) - Currently trained on ChembL ( < 2,000,000)
+2. Allow user input target molecules for finetuning/transfer learning.
+3. Implement RL to get user-defined compounds with key properties
 
 
 ---
